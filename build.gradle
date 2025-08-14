@@ -46,6 +46,6 @@ tasks.withType(Javadoc) {
     options.encoding = 'UTF-8'
 }
 
-sourceCompatibility = '15'
-targetCompatibility = '15'
+//sourceCompatibility = '15'
+//targetCompatibility = '15'
 
